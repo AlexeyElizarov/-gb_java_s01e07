@@ -18,7 +18,7 @@ public class Main {
             plate.info();
         }
 
-        plate.fillFood(130);
+        plate.fillFood(120);
         plate.info();
 
         for (Cat cat: cats) {
